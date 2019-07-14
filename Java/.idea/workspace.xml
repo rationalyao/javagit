@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33a4fe5b-b77e-43df-8aea-77213d94d08f" name="默认" comment="默认">
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/leecode/TowNumSum_linkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/leecode/TwoNumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Linear/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Linear/Febonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Linear/Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Linear/InsertSortHill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Linear/InsertSortStraight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Linear/LoopNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Linear/Myqueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Linear/PracticeRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/LinearTest/DoubleNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/LinearTest/LoopNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/QuickSortIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/RadixQueueSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Tree/ArrayBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Tree/TestArrayBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Tree/TestBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Tree/ThreadedBinaryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/Tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/practice/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/practice/TemplatesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/practice/TestMergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/templates/Templates2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/templates/Templates3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/templates/TemplatesModify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/templates/TemplatesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/test/AAA_BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/test/AAB_BinarySearchST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/test/AAC_ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/test/AAD_InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/test/AAE_SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/test/AAF_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/test/been/AAFB_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/src/test/been/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/JavaSE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/bean/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/bean/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/collection/Demo1_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/collection/Demo2_Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/collection/Demo3_Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/collection/Demo4_CollectionAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/collection/Demo5_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/exception/Demo1_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/exception/Demo2_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/exception/Demo3_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/exception/Demo4_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/exception/Demo5_Throwable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/exception/Demo6_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/file/Demo1_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/file/Demo2_FileMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/file/Demo3_FileMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/file/Demo4_FileMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/file/Demo5_FileMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/file/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/generic/Demo1_Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/generic/Demo2_Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/generic/Demo3_Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/generic/Demo4_Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/generic/Demo5_Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/jdk5/Demo2_StaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/jdk5/Demo3_ChangeableArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/jdk5/Demo4_AsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list/Demo1_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list/Demo2_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list/Demo3_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list/Demo4_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list/Demo5_Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list2/Demo1_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list2/Demo2_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list2/Demo3_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list2/Demo4_LInkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list2/Demo5_ArrayListArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/list2/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/map/Demo1_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/map/Demo2_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/map/Demo3_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/map/Demo4_MapEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/map/Demo5_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/map/Demo6_LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/map/Demo7_TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/otherclass/Demo1_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/otherclass/Demo2_Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/otherclass/Demo3_System.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/otherclass/Demo4_BigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/otherclass/Demo5_BigDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/otherclass/Demo6_Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/otherclass/Demo7_SimpleDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/regex/Demo1_Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/regex/Demo2_Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/regex/Demo3_Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/regex/Demo4_Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/regex/Demo5_Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/regex/Demo6_ReplaceAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/regex/Demo7_Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/regex/Demo8_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/regex/test/Test1_Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/set/Demo1_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/set/Demo2_LinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/set/Demo3_TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/wrap_class/Demo1_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/wrap_class/Demo2_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/wrap_class/Demo3_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/wrap_class/Demo4_JDK5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/wrap_class/Demo5_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ccc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/leecode/TowNumSum_linkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/leecode/TwoNumSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/leecode/listNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Linear/DoubleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Linear/Febonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Linear/Hanoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Linear/InsertSortHill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Linear/InsertSortStraight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Linear/LoopNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Linear/Myqueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Linear/PracticeRecursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/LinearTest/DoubleNodeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/LinearTest/LoopNodeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/QuickSortIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/RadixQueueSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Sort/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Tree/ArrayBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Tree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Tree/TestArrayBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Tree/TestBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Tree/ThreadedBinaryNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/Tree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/practice/TemplatesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/practice/TestMergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/templates/Templates2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/templates/Templates3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/templates/TemplatesModify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/templates/TemplatesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/test/AAA_BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/test/AAB_BinarySearchST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/test/AAC_ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/test/AAD_InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/test/AAE_SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/test/AAF_QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/test/been/AAFB_QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithms/src/test/been/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/bean/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/bean/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/bean/Tool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/collection/Demo1_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/collection/Demo2_Collection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/collection/Demo3_Collection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/collection/Demo4_CollectionAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/collection/Demo5_Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/exception/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/exception/Demo1_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/exception/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/exception/Demo2_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/exception/Demo3_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/exception/Demo4_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/exception/Demo5_Throwable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/exception/Demo6_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/exception/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/file/Demo1_File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/file/Demo2_FileMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/file/Demo3_FileMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/file/Demo4_FileMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/file/Demo5_FileMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/file/Test1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/file/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/generic/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/generic/Demo1_Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/generic/Demo2_Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/generic/Demo3_Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/generic/Demo4_Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/generic/Demo5_Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/generic/Inter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/jdk5/Demo2_StaticImport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/jdk5/Demo3_ChangeableArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/jdk5/Demo4_AsList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list/Demo1_List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list/Demo2_List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list/Demo3_List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list/Demo4_ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list/Demo5_Vector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list2/Demo1_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list2/Demo2_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list2/Demo3_LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list2/Demo4_LInkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list2/Demo5_ArrayListArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/list2/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Demo1_Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Demo2_Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Demo3_Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Demo4_MapEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Demo5_HashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Demo6_LinkedHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Demo7_TreeMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Inter$Inter2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/map/Inter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/otherclass/Demo1_Math.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/otherclass/Demo2_Random.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/otherclass/Demo3_System$Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/otherclass/Demo3_System.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/otherclass/Demo4_BigInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/otherclass/Demo5_BigDecimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/otherclass/Demo6_Date.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/otherclass/Demo7_SimpleDateFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/regex/Demo1_Regex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/regex/Demo2_Regex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/regex/Demo3_Regex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/regex/Demo4_Regex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/regex/Demo5_Split.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/regex/Demo6_ReplaceAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/regex/Demo7_Regex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/regex/Demo8_Pattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/regex/test/Test1_Regex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/set/CompareByLen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/set/Demo1_HashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/set/Demo2_LinkedHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/set/Demo3_TreeSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/test/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/test/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/test/Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/test/Test4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/test/Test4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/test/Test5$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/test/Test5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/wrap_class/Demo1_Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/wrap_class/Demo2_Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/wrap_class/Demo3_Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/wrap_class/Demo4_JDK5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/wrap_class/Demo5_Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zzz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/javafx-src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/charsets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/deploy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/access-bridge-64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/cldrdata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/dnsns.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/jaccess.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/jfxrt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/localedata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/nashorn.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/sunec.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/sunjce_provider.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/sunmscapi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/sunpkcs11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/ext/zipfs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/javaws.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/jce.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/jfr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/jfxswt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/jsse.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/management-agent.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/resources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/jre/lib/rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdk1.8.0_144/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/lib/kotlin-test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/scala01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p1/1_declare.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p1/2_type.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p1/3_operator.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p1/4_math.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p1/5_apply.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p1/6_update.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p1/7_option.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p1/HelloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p2/1_ifelse.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p2/3_while.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p2/4_for.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p2/5_function.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p2/6_process.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p2/7_lazy.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p2/8_exception.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/10_list.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/11_set.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/12_maptolist.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/13_scan.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/14.zip.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/15_iter.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/16_stream.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/17_view.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/18_concurrent.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/1_array.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/3_arraytransform.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/3_dimensions.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/4_arrayjava.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/5_map.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/6_mapjava.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/7_tuple.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/8_queue.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p3/9_stack.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/10_copy.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/11_mvalue.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/12_nest.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/14_enum.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/15_partial.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/1_swithc.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/2_guard.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/3_var.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/4_type.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/5_bind.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/6_unapply.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/7_var.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/8_for.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p4/9_case.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p5/1_var.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p5/2_anonymity.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p5/3_high.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p5/4_infer.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p5/5_closure.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p5/6_currying.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p5/7_abstract.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p6/1_class.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p6/2_getter.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p6/3_private.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p6/4_bean.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p6/5_constructor.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/scala01/src/com/yy/p6/6_subclass.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_chuusai_shapeless_2_11_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_github_fommil_netlib_core_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_github_luben_zstd_jni_1_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_github_rwl_jtransforms_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_github_scopt_scopt_2_11_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_0_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_h2database_h2_1_4_195.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_novocode_junit_interface_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_twitter_chill_2_11_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_twitter_chill_java_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_twitter_parquet_hadoop_bundle_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_typesafe_scala_logging_scala_logging_2_11_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_univocity_univocity_parsers_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_vlkan_flatbuffers_1_2_0_3f79e055.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__io_airlift_aircompressor_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__io_netty_netty_3_9_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__io_netty_netty_all_4_1_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__it_unimi_dsi_fastutil_7_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javax_jdo_jdo_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__javolution_javolution_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__joda_time_joda_time_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__log4j_apache_log4j_extras_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_hydromatic_eigenbase_properties_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_sourceforge_f2j_arpack_combined_all_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_antlr_ST4_4_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_arrow_arrow_format_0_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_arrow_arrow_memory_0_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_arrow_arrow_vector_0_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_avro_avro_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_avro_avro_mapred_hadoop2_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_calcite_calcite_avatica_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_calcite_calcite_core_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_calcite_calcite_linq4j_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_commons_commons_compress_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_curator_curator_client_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_curator_curator_framework_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_curator_curator_test_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_derby_derby_10_12_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_orc_orc_core_nohive_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_orc_orc_mapreduce_nohive_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_orc_orc_shims_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_parquet_parquet_avro_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_parquet_parquet_column_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_parquet_parquet_common_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_parquet_parquet_encoding_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_parquet_parquet_format_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_parquet_parquet_hadoop_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_parquet_parquet_jackson_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_thrift_libfb303_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_xbean_xbean_asm6_shaded_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_clapper_classutil_2_11_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_clapper_grizzled_scala_2_11_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_codehaus_janino_commons_compiler_3_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_codehaus_janino_janino_3_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_datanucleus_datanucleus_api_jdo_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_datanucleus_datanucleus_core_3_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_datanucleus_datanucleus_rdbms_3_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_jndi_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_proxy_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_3_24_v20180605.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_12_v20150709.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_12_v20150709.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_12_v20150709.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_jodd_jodd_core_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_jpmml_pmml_model_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/assembly/spark-assembly_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/common/kvstore/spark-kvstore_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/common/network-common/spark-network-common_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/common/network-shuffle/spark-network-shuffle_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/common/sketch/spark-sketch_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/common/tags/spark-tags_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/common/unsafe/spark-unsafe_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/core/spark-core_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/examples/spark-examples_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/external/avro/spark-avro_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/external/kafka-0-10-assembly/spark-streaming-kafka-0-10-assembly_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/external/kafka-0-10-sql/spark-sql-kafka-0-10_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/external/kafka-0-10/spark-streaming-kafka-0-10_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/graphx/spark-graphx_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/launcher/spark-launcher_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/mllib-local/spark-mllib-local_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/mllib/spark-mllib_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/repl/spark-repl_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/sql/catalyst/spark-catalyst_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/sql/core/spark-sql_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/sql/hive/spark-hive_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/streaming/spark-streaming_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-source/spark-2.4.3/tools/spark-tools_2.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JJJJJJAVA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/AAE_SelectSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Sort/SelectSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/AAC_ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JavaSE/src/test/Test1.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/test/Test2.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/set/Test3.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/bean/Person.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/set/Demo3_TreeSet.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/test/Test4.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/test/Test5.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/map/Demo1_Map.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/map/Demo2_Iterator.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/map/Demo4_MapEntry.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/map/Demo3_Iterator.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/map/Demo5_HashMap.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/map/Demo6_LinkedHashMap.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/map/Demo7_TreeMap.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/bean/Student.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/exception/Demo1_Exception.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/exception/Demo2_Exception.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/exception/Demo3_Exception.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/exception/Demo4_Exception.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/exception/Demo5_Throwable.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Tree/TestBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/exception/Demo6_Exception.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/file/Demo1_File.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/file/Demo2_FileMethod.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/file/Demo3_FileMethod.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/file/Demo4_FileMethod.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/file/Demo5_FileMethod.java" />
+        <option value="$PROJECT_DIR$/JavaSE/src/file/Test1.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Tree/ArrayBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Tree/TestArrayBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/leecode/TwoNumSum.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/leecode/TowNumSum_linkedList.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/BinarySearchST.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/AAB_BinarySearchST.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/Node.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Linear/LoopNode.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/been/Node.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/AAC_ListNode.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/AAD_InsertSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/AAE_SelectSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/been/QuickSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/AAF_QuickSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/test/been/AAFB_QuickSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/Sort/test.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/src/practice/QuickSort.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="width" value="1040" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Linear" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552557881971" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.Sort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\Java\Algorithms\src" />
+      <recent name="D:\java\Java\Algorithms\" />
+      <recent name="D:\java\Java\JavaSE\src" />
+      <recent name="D:\java\Java\Arithmetic\src" />
+      <recent name="D:\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="AAA_BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.test.AAA_BubbleSort" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AAFB_QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.test.been.AAFB_QuickSort" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.test.been.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Sort.BubbleSort" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.practice.QuickSort" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Sort.test" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AAFB_QuickSort" />
+      <item itemvalue="Application.AAA_BubbleSort" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.QuickSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.AAA_BubbleSort" />
+        <item itemvalue="Application.AAFB_QuickSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33a4fe5b-b77e-43df-8aea-77213d94d08f" name="默认" comment="" />
+      <created>1541634601368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541634601368</updated>
+      <workItem from="1541634607718" duration="594000" />
+      <workItem from="1546946137893" duration="825000" />
+      <workItem from="1547000592603" duration="598000" />
+      <workItem from="1547001698004" duration="761000" />
+      <workItem from="1547002486284" duration="112000" />
+      <workItem from="1547002621301" duration="210000" />
+      <workItem from="1547002857779" duration="569000" />
+      <workItem from="1547003453639" duration="2478000" />
+      <workItem from="1547012876563" duration="9588000" />
+      <workItem from="1547082236569" duration="10828000" />
+      <workItem from="1547119158525" duration="4251000" />
+      <workItem from="1547171286309" duration="7335000" />
+      <workItem from="1547200865739" duration="6739000" />
+      <workItem from="1547255201959" duration="53000" />
+      <workItem from="1547255284194" duration="247000" />
+      <workItem from="1547255556213" duration="298000" />
+      <workItem from="1547255883221" duration="15179000" />
+      <workItem from="1547340729977" duration="5307000" />
+      <workItem from="1547427569570" duration="8133000" />
+      <workItem from="1547516867796" duration="10811000" />
+      <workItem from="1547598428010" duration="16358000" />
+      <workItem from="1547703172506" duration="7590000" />
+      <workItem from="1547772276874" duration="6982000" />
+      <workItem from="1547804598303" duration="4553000" />
+      <workItem from="1547850263275" duration="1466000" />
+      <workItem from="1548150774543" duration="2480000" />
+      <workItem from="1551248862157" duration="3983000" />
+      <workItem from="1551256728135" duration="595000" />
+      <workItem from="1551310130871" duration="10198000" />
+      <workItem from="1551404851278" duration="17769000" />
+      <workItem from="1551506238588" duration="13863000" />
+      <workItem from="1551585434045" duration="15264000" />
+      <workItem from="1551677324533" duration="15173000" />
+      <workItem from="1551770091650" duration="628000" />
+      <workItem from="1551784315243" duration="791000" />
+      <workItem from="1551850256241" duration="13000" />
+      <workItem from="1552474008365" duration="3078000" />
+      <workItem from="1552555814585" duration="2076000" />
+      <workItem from="1562027294703" duration="1734000" />
+      <workItem from="1562371412613" duration="15575000" />
+      <workItem from="1562410059647" duration="18000" />
+      <workItem from="1562545448727" duration="8208000" />
+      <workItem from="1562629747357" duration="3901000" />
+      <workItem from="1562714170440" duration="4296000" />
+      <workItem from="1562807977182" duration="2536000" />
+      <workItem from="1562889862977" duration="595000" />
+      <workItem from="1563000241185" duration="1057000" />
+      <workItem from="1563015811346" duration="2441000" />
+      <workItem from="1563059083130" duration="6518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__Linear - 2019.01.12 at 09h 13m 33s.xml">
+      <configuration name="All Features in: Linear" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="256828000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28351206" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="设计器" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.3297587" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32918397" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.28947368" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963988" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32963988" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.32963988" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.32963988" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32825485" />
+      <window_info anchor="bottom" id="Problems" order="13" weight="0.32963988" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Palette" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25201073" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="设计器" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.3297587" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.29045644" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963988" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32963988" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.32963988" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.32963988" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32963988" />
+      <window_info anchor="bottom" id="Problems" order="13" weight="0.32963988" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Palette" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/bean/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/test/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/test/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/map/Demo4_MapEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/map/Demo2_Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/map/Demo1_Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/map/Demo3_Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/map/Demo5_HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/map/Demo6_LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/map/Demo7_TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/bean/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/exception/Demo1_Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/exception/Demo2_Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/exception/Demo3_Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/exception/Demo4_Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="108" column="29" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Tree/TestBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/exception/Demo5_Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/exception/Demo6_Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/file/Demo1_File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/file/Demo2_FileMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/file/Demo3_FileMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/file/Demo4_FileMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ccc.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/file/Demo5_FileMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE/src/file/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Tree/ArrayBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Tree/TestArrayBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Tree/ThreadedBinaryNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Linear/Myqueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Linear/PracticeRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/leecode/TwoNumSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="7" selection-start-line="18" selection-start-column="8" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/leecode/TowNumSum_linkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="95" selection-start-line="23" selection-start-column="95" selection-end-line="23" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Linear/DoubleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Linear/LoopNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/been/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/been/AAFB_QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/AAF_QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Sort/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/AAA_BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/AAD_InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/AAB_BinarySearchST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/practice/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/AAE_SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/Sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/src/test/AAC_ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (3)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaSE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
